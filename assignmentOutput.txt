@@ -1,0 +1,158 @@
+Script started on Mon Apr 27 23:15:43 2026
+[1m[7m%[27m[1m[0m                                                                                                           
+ 
+
+
+[Jassignment6.class  assignment6.java[A[0m[27m[24m
+[42Cjava assignment6.[Kjava[1m [0m[0m     java     [?2004l
+
+[J____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+1
+enter item to insert:
+30
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+1
+enter item to insert:
+50
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+1
+enter item to insert:
+1
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+1
+enter item to insert:
+33
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+4
+displayAll():
+____________Tree of 4 items________________
+1 30 33 50 
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+6
+Max value: 50
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+7
+Min value: 1
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+8
+Tree size: 4
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+2
+enter item to insert:
+5
+Sorry... 5 is NOT found in the tree!
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+2
+enter item to insert:
+33
+33 is found in the tree!
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+5
+enter item to delete:
+33
+33 was deleted form the tree.
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+4
+displayAll():
+____________Tree of 3 items________________
+1 30 50 
+____________Main Menu_____________________
+select option :
+1: insert item
+2: find item
+3: tree height
+4: display items
+5: delete item
+9: exit
+9
+Goodbye!!
+[1m[7m%[27m[1m[0m                                                                                                           
+ 
+
+
+
+Script done on Mon Apr 27 23:17:37 2026
